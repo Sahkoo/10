@@ -1,0 +1,36 @@
+#download-btn {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 850px;
+    margin-top: 200px;
+}
+
+#download-btn:hover {
+    background-color: #3e8e41;
+}
+
+#download-btn {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#download-btn:active {
+    transform: translateY(2px);
+}
+
+.imga {
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.img {
+    width: 300px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
